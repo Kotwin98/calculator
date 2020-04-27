@@ -1,6 +1,6 @@
 # calculator
 Simple JS calculator
-### See [DEMO]()
+### See [DEMO](https://kotwin98.github.io/calculator/)
 ## Tech stack
 - HTML
 - CSS
